@@ -17,10 +17,10 @@ script.on_event(defines.events.on_player_created, function(event)
 end)
 
 script.on_event(defines.events.on_gui_click, function(event)
-    local player_global = global.players[event.player_index]
-    if event.element.name == "guide_button" then
+    if event.element.name == "my-custom-input" then
+        local player_global = global.players[event.player_index]
         player_global.controls_active = not player_global.controls_active
         local control_toggle = event.element
-        control_toggle.caption = (player_global.controls_active) and { "conditions.deactivated" } or { "conditions.activated" }
-    end
+        control_toggle.caption = (player_global.controls_active) and {"conditios.deactivated"} or {"coditios.activated"}
 end)
+
