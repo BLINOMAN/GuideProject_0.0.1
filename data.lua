@@ -5,7 +5,7 @@ data:extend
     {
         type = "custom-input",
         name = "my-custom-input",
-        key_sequence = "CONTROL + I",
+        key_sequence = "I",
         consuming = "none"
     }
 }
