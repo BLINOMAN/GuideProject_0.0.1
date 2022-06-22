@@ -17,9 +17,7 @@ styles["content_frame"] = {
 }
 
 styles["controls_flow"] = {
-    type = "horizontal_flow_style",
-    vertical_align = "center",
-    horizontal_spacing = 16
+    type = "vertical_flow_style"
 }
 
 styles["controls_textfield"] = {
