@@ -17,6 +17,5 @@
 
 Связаться с авторами можно при помощи следующих контактов:
 https://vk.com/skkingg - лидер проекта
-pavel_pro_raboty@mail.com - второй прграммист проекта
-
-
+https://vk.com/muratshinb - первый программист проекта
+pavel_pro_raboty@mail.com - второй программист проекта
